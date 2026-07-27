@@ -5,16 +5,16 @@ Projek ini membangun sebuah aplikasi modern berbasis website mulai dari proses a
 ## Fitur 
 
 Projek ini memiliki fitur utama sebagai berikut:
-- Autentikasi pengguna (*Sign Up, Sign In, Logout*)
-- Proteksi halaman menggunakan *Auth Middleware*
-- Halaman *Dashboard Admin*
-- Manajemen data user (*Create, Read, Update, Delete*)
+- Autentikasi pengguna (**Sign Up, Sign In, Logout**)
+- Proteksi halaman menggunakan **Auth Middleware**
+- Halaman **Dashboard Admin**
+- Manajemen data user (**Create, Read, Update, Delete**)
 
 Hal lain yang dibangun di projek ini:
-- Validasi form menggunakan *Zod*
-- Hashing password menggunakan *bcrypt*
-- Pengelolaan database dengan *Prisma*
-- Server Actions untuk proses *Create, Update, dan Delete*
+- Validasi form menggunakan **Zod**
+- Hashing password menggunakan **bcrypt**
+- Pengelolaan database dengan **Prisma**
+- Server Actions untuk proses **Create, Update, dan Delete**
 - Pemisahan component, action, dan page agar struktur project tetap rapi
 
 ## Cara Menjalankan Projek
