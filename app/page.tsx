@@ -40,7 +40,7 @@ export default function Home() {
 
                         {/* Actions */}
                         <p className="mt-4 text-pretty text-base leading-relaxed text-zinc-600 sm:text-lg">Tunggu apa lagi? coba gratis sekarang!</p>
-                        <div className="mt-2 flex-col gap-3 sm:flex-row">
+                        <div className="mt-2 flex flex-col gap-3 sm:flex-row">
                             <Link href="/sign-up" className="inline-flex items-center justify-center rounded-full bg-zinc-900 px-5 py-3 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 focus:outline-none focus:ring-zinc-900/20">Sign Up</Link>
 
                             <Link
