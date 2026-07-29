@@ -14,8 +14,8 @@ export default function Navbar() {
                             <span className="inline-flex h-8 w-8 items-center justify-center rounded-lg bg-zinc-900 text-xs font-bold text-white shadow-sm">
                                 <BrainCircuit className="h-5 w-5 text-white transition group-hover:rotate-12" />
                             </span>
-                            <span className="text-sm font-semibold tracking-wide text-zinc-900">
-                                Lopsy: AI Learning Operating System
+                            <span className="text-2xl font-semibold tracking-wide text-zinc-900">
+                                Lopsy
                             </span>
                         </Link>
 
@@ -35,7 +35,7 @@ export default function Navbar() {
                     </div>
 
                     <div className="flex items-center gap-2">
-                        <a href="#" target="_blank" className="rounded-full bg-zinc-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 focus:outline-none focus:ring-2 focus:ring-zinc-900/20">LOPSY.COM</a>
+                        <a href="#" target="_blank" className="rounded-full bg-zinc-900 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-zinc-800 focus:outline-none focus:ring-2 focus:ring-zinc-900/20">LOPSY.AI</a>
                     </div>
 
                 </div>
